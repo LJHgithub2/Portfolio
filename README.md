@@ -1,5 +1,9 @@
 # Portfolio
 
+### Chat GPT 연계형 식물 진단 서비스
+-  CNN을 통해 식물의 사진을 분석하고, fine-tuning된 GPT 모델을 사용하여 사용자에게 맞춤형 해결책을 제공 하는 서비스.
+  - https://github.com/orgs/CBNU-Graduation-Projects/repositories
+
 ### 토익 단어 외우기 웹사이트 (react, django, tailwind) - 진행중
 -  
   - https://github.com/LJHgithub2/ToiecVocaTestWeb
